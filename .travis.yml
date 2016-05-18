@@ -1,25 +1,20 @@
 language: go
-
 go:
-    - "1.5.1"
-
+- 1.5.1
 env:
-    global:
-        - SSH_KEY="id_rsa"
-        - GIT_NAME="donker008"
-        - GIT_EMAIL="richdonker@qq.com"
-        - SOURCE_DIR="public"
-        - DEPLOY_BRANCH="source"
-
+  global:
+  - SSH_KEY="id_rsa"
+  - GIT_NAME="donker008"
+  - GIT_EMAIL="richdonker@qq.com"
+  - SOURCE_DIR="public"
+  - DEPLOY_BRANCH="source"
 before_install:
-    - openssl aes-256-cbc -K $encrypted_5badef0aa7c9_key -iv $encrypted_5badef0aa7c9_iv -in id_rsa.enc -out id_rsa -d
-
+- openssl aes-256-cbc -K $encrypted_a891ee02ccac_key -iv $encrypted_a891ee02ccac_iv
+  -in id_rsa_autuomate.enc -out ~\/.ssh/id_rsa_autuomate -d
 before_script:
-    - go get -u -v github.com/spf13/hugo
-
+- go get -u -v github.com/spf13/hugo
 script:
-    - hugo
-
+- hugo
 after_success:
-    - echo "livecollage.cc" > ./public/CNAME
-    - ./scripts/deploy.sh
+- echo "livecollage.cc" > ./public/CNAME
+- "./scripts/deploy.sh"
