@@ -7,7 +7,7 @@ image = ""
 menu = ""
 share = true
 slug = "FAST"
-tags = ["Fast", "Collage","Sketch","Doodle","GIF","Video","Artwork"]
+tags = ["Fast", "Collage","Sketch","Doodle","GIF","Video","Artwork","Fun"]
 title = "Fast"
 
 +++

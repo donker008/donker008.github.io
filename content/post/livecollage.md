@@ -12,7 +12,7 @@ title = "LiveCollage - instant collage maker"
 
 +++
 
-[*]Highly recommended by over 50 million users!
+Highly recommended by over 50 million users!
 Create fun, amazing layouts & collages by remixing your own photos with text,sticker in seconds and sharing them with your friends. <!--more-->
 
 Be creative. Be spontaneous. Get LiveCollage!
