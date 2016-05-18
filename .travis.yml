@@ -12,7 +12,7 @@ before_install:
 - openssl aes-256-cbc -K $encrypted_a891ee02ccac_key -iv $encrypted_a891ee02ccac_iv
   -in id_rsa_autuomate.enc -out ~/.ssh/id_rsa_autuomate -d
 before_script:
-- go get -u -v github.com/spf13/hugo
+- go get -u -v https://github.com/spf13/hugo
 script:
 - hugo
 after_success:
