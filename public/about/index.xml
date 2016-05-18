@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Abouts on LiveCollage</title>
+    <link>http://donker008.github.io/about/</link>
+    <description>Recent content in Abouts on LiveCollage</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>All rights reserved - 2016</copyright>
+    <lastBuildDate>Wed, 18 May 2016 14:07:48 +0800</lastBuildDate>
+    <atom:link href="http://donker008.github.io/about/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>About</title>
+      <link>http://donker008.github.io/about/about/</link>
+      <pubDate>Wed, 18 May 2016 14:07:48 +0800</pubDate>
+      
+      <guid>http://donker008.github.io/about/about/</guid>
+      <description>&lt;p&gt;The mission of &lt;strong&gt;Click2Mobile&lt;/strong&gt; is to help you make mobile experience simpler &amp;amp; easier! If you have any questions &amp;amp; suggestions, please feel free to contact us at &lt;a href=&#34;mailto:livecollage.us@gmail.com&#34;&gt;livecollage.us@gmail.com&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

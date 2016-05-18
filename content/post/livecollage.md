@@ -7,11 +7,11 @@ image = ""
 menu = ""
 share = true
 slug = "LiveCollage - instant collage maker"
-tags = ["livecollage", "collage","layout","photo","maker","editor"]
+tags = ["livecollage", "collage","layout","photo","maker","editor","grid","stitch","poster"]
 title = "LiveCollage - instant collage maker"
 
 +++
-
+[![Livecollage](http://7xp3b4.com1.z0.glb.clouddn.com/180livecollage.png "LiveCollage")](https://itunes.apple.com/app/id530957474)
 Highly recommended by over 50 million users!
 Create fun, amazing layouts & collages by remixing your own photos with text,sticker in seconds and sharing them with your friends. <!--more-->
 
@@ -64,4 +64,9 @@ livecollage.us@gmail.com
 **DISCLAIMER**
 
 We are not affiliated with Instagram, Evernote, Twitter, Facebook,Whatsapp, Kik, Line, Thumblr,Tanggo,Pinterest or any other social media.
+
+
+![livecollage](http://7xp3b4.com1.z0.glb.clouddn.com/livecollage300.png)
+[GET it for Free from Appstore](https://itunes.apple.com/app/id530957474)
+
 
