@@ -3,7 +3,7 @@ go:
 - 1.5.1
 env:
   global:
-  - SSH_KEY="id_rsa"
+  - SSH_KEY="id_rsa_autuomate"
   - GIT_NAME="donker008"
   - GIT_EMAIL="richdonker@qq.com"
   - SOURCE_DIR="public"
