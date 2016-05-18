@@ -4,6 +4,8 @@ set -e
 # Deploy built docs to this branch
 TARGET_BRANCH=master
 
+echo "Start deploying..."
+
 if [ ! -d "$SOURCE_DIR" ]; then
 echo "SOURCE_DIR ($SOURCE_DIR) does not exist, build the source directory before deploying"
 exit 1
